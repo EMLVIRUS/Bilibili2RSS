@@ -8,13 +8,17 @@ https://github.com/wdssmq/Bilibili2RSS
 
 ## 使用方法（不想写UI和提交表单啊。。。）
 
-https://bilibili2rss.bid/anime/5800 （建议）
+https://bilibili2rss.bid/anime/5800 （例子）
 
-https://bilibili2rss.bid/id/5800
+以番剧妹抖龙为例，该番剧地址为
 
-https://bilibili2rss.bid/http://bangumi.bilibili.com/anime/5800
+`https://bangumi.bilibili.com/anime/5800`
 
-https://bilibili2rss.bid/http://bangumi.bilibili.com/anime/5800/play#98610
+然后将地址修改为上述例子中的
+
+`https://bilibili2rss.bid/anime/5800`
+
+将改地址输入到你的RSS阅读器即可
 
 ## 部分代码或类库来源
 
